@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://polkadex.ee
+
+# Sitemaps
+Sitemap: https://polkadex.ee/sitemap.xml
